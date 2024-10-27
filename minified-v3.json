@@ -341,16 +341,6 @@
             "imminent": false,
             "mdm_available": true,
             "mdm_only": false
-        },
-        {
-            "name": "tvOS 17.5.1 (21L580)",
-            "alternate": false,
-            "date": "2024-10-27T00:00:00+00:00",
-            "delay": -1,
-            "latest": false,
-            "imminent": true,
-            "mdm_available": true,
-            "mdm_only": true
         }
     ],
     "macOS": [
@@ -453,37 +443,7 @@
             "imminent": false,
             "mdm_available": true,
             "mdm_only": false
-        },
-        {
-            "name": "macOS Sonoma 14.5 (23F79)",
-            "alternate": false,
-            "date": "2024-10-27T00:00:00+00:00",
-            "delay": -1,
-            "latest": false,
-            "imminent": true,
-            "mdm_available": true,
-            "mdm_only": true
-        },
-        {
-            "name": "macOS Ventura 13.6.7 (22G720)",
-            "alternate": false,
-            "date": "2024-10-27T00:00:00+00:00",
-            "delay": -1,
-            "latest": false,
-            "imminent": true,
-            "mdm_available": true,
-            "mdm_only": true
-        },
-        {
-            "name": "macOS Monterey 12.7.5 (21H1222)",
-            "alternate": false,
-            "date": "2024-10-27T00:00:00+00:00",
-            "delay": -1,
-            "latest": false,
-            "imminent": true,
-            "mdm_available": true,
-            "mdm_only": true
         }
     ],
-    "_date": "2024-10-27T20:23:51.248049+00:00"
+    "_date": "2024-10-27T20:50:40.254157+00:00"
 }
