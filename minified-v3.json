@@ -13,8 +13,8 @@
         {
             "name": "iOS 18.0.1 (22A3370)",
             "alternate": false,
-            "date": "2025-01-27T00:00:00+00:00",
-            "delay": 35,
+            "date": "2025-01-26T00:00:00+00:00",
+            "delay": 36,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -23,8 +23,8 @@
         {
             "name": "iOS 18 (22A3354)",
             "alternate": false,
-            "date": "2025-01-02T00:00:00+00:00",
-            "delay": 52,
+            "date": "2025-01-01T00:00:00+00:00",
+            "delay": 53,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -55,8 +55,8 @@
         {
             "name": "iOS 18.0.1 (22A3370)",
             "alternate": false,
-            "date": "2025-01-27T00:00:00+00:00",
-            "delay": 35,
+            "date": "2025-01-26T00:00:00+00:00",
+            "delay": 36,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -65,8 +65,8 @@
         {
             "name": "iOS 17.7 (21H16)",
             "alternate": true,
-            "date": "2025-01-27T00:00:00+00:00",
-            "delay": 52,
+            "date": "2025-01-26T00:00:00+00:00",
+            "delay": 53,
             "latest": false,
             "imminent": false,
             "mdm_available": false,
@@ -75,8 +75,8 @@
         {
             "name": "iOS 18 (22A3354)",
             "alternate": false,
-            "date": "2025-01-02T00:00:00+00:00",
-            "delay": 52,
+            "date": "2025-01-01T00:00:00+00:00",
+            "delay": 53,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -85,7 +85,7 @@
         {
             "name": "iOS 17.6.1 (21G93)",
             "alternate": false,
-            "date": "2024-12-16T00:00:00+00:00",
+            "date": "2024-12-15T00:00:00+00:00",
             "delay": 90,
             "latest": false,
             "imminent": false,
@@ -485,5 +485,5 @@
             "mdm_only": false
         }
     ],
-    "_date": "2024-11-08T00:12:11.277786+00:00"
+    "_date": "2024-11-08T01:18:21.078857+00:00"
 }
