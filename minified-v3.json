@@ -453,37 +453,7 @@
             "imminent": false,
             "mdm_available": true,
             "mdm_only": false
-        },
-        {
-            "name": "macOS Sequoia 15.0.1 (24A348)",
-            "alternate": false,
-            "date": "2025-01-26T00:00:00+00:00",
-            "delay": -1,
-            "latest": false,
-            "imminent": true,
-            "mdm_available": true,
-            "mdm_only": true
-        },
-        {
-            "name": "macOS Sonoma 14.7 (23H124)",
-            "alternate": false,
-            "date": "2025-01-26T00:00:00+00:00",
-            "delay": -1,
-            "latest": false,
-            "imminent": true,
-            "mdm_available": true,
-            "mdm_only": true
-        },
-        {
-            "name": "macOS Ventura 13.7 (22H123)",
-            "alternate": false,
-            "date": "2025-01-26T00:00:00+00:00",
-            "delay": -1,
-            "latest": false,
-            "imminent": true,
-            "mdm_available": true,
-            "mdm_only": true
         }
     ],
-    "_date": "2025-01-26T15:22:29.799469+00:00"
+    "_date": "2025-01-26T15:48:33.874193+00:00"
 }
