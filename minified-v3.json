@@ -395,7 +395,7 @@
     ],
     "macOS": [
         {
-            "name": "macOS Sequoia 15.3.1 (24D70)",
+            "name": "macOS 15.3.1 (24D70)",
             "alternate": false,
             "date": null,
             "delay": 0,
@@ -425,7 +425,7 @@
             "mdm_only": false
         },
         {
-            "name": "macOS Monterey 12.7.6 (21H1320)",
+            "name": "macOS 12.7.6 (21H1320)",
             "alternate": false,
             "date": null,
             "delay": 0,
@@ -455,7 +455,7 @@
             "mdm_only": false
         },
         {
-            "name": "macOS Sonoma 14.7.3 (23H417)",
+            "name": "macOS 14.7.3 (23H417)",
             "alternate": false,
             "date": "2025-05-11T00:00:00+00:00",
             "delay": 41,
@@ -465,7 +465,7 @@
             "mdm_only": false
         },
         {
-            "name": "macOS Ventura 13.7.3 (22H417)",
+            "name": "macOS 13.7.3 (22H417)",
             "alternate": false,
             "date": "2025-05-11T00:00:00+00:00",
             "delay": 41,
@@ -535,5 +535,5 @@
             "mdm_only": false
         }
     ],
-    "_date": "2025-03-09T18:24:11.724847+00:00"
+    "_date": "2025-03-09T18:48:54.157674+00:00"
 }
