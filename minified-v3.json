@@ -159,7 +159,7 @@
             "delay": 90,
             "latest": false,
             "imminent": false,
-            "mdm_available": true,
+            "mdm_available": false,
             "mdm_only": false
         }
     ],
@@ -191,7 +191,7 @@
             "delay": 51,
             "latest": false,
             "imminent": false,
-            "mdm_available": true,
+            "mdm_available": false,
             "mdm_only": false
         }
     ],
@@ -355,5 +355,5 @@
             "mdm_only": false
         }
     ],
-    "_date": "2025-07-02T20:10:03.603727+00:00"
+    "_date": "2025-07-02T21:14:55.395101+00:00"
 }
