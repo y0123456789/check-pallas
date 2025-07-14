@@ -13,8 +13,8 @@
         {
             "name": "iOS 18.4.1 (22E252)",
             "alternate": false,
-            "date": "2025-08-11T00:00:00+00:00",
-            "delay": 88,
+            "date": "2025-08-10T00:00:00+00:00",
+            "delay": 89,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -23,7 +23,7 @@
         {
             "name": "iOS 18.4 (22E240)",
             "alternate": false,
-            "date": "2025-07-16T00:00:00+00:00",
+            "date": "2025-07-15T00:00:00+00:00",
             "delay": 90,
             "latest": false,
             "imminent": false,
@@ -45,8 +45,8 @@
         {
             "name": "iOS 18.4.1 (22E252)",
             "alternate": false,
-            "date": "2025-08-11T00:00:00+00:00",
-            "delay": 88,
+            "date": "2025-08-10T00:00:00+00:00",
+            "delay": 89,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -55,7 +55,7 @@
         {
             "name": "iOS 18.4 (22E240)",
             "alternate": false,
-            "date": "2025-07-16T00:00:00+00:00",
+            "date": "2025-07-15T00:00:00+00:00",
             "delay": 90,
             "latest": false,
             "imminent": false,
@@ -113,8 +113,8 @@
         {
             "name": "iPadOS 18.4.1 (22E252)",
             "alternate": false,
-            "date": "2025-08-11T00:00:00+00:00",
-            "delay": 88,
+            "date": "2025-08-10T00:00:00+00:00",
+            "delay": 89,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -123,7 +123,7 @@
         {
             "name": "iPadOS 18.4 (22E240)",
             "alternate": false,
-            "date": "2025-07-16T00:00:00+00:00",
+            "date": "2025-07-15T00:00:00+00:00",
             "delay": 90,
             "latest": false,
             "imminent": false,
@@ -145,8 +145,8 @@
         {
             "name": "iPadOS 18.4.1 (22E252)",
             "alternate": false,
-            "date": "2025-08-11T00:00:00+00:00",
-            "delay": 88,
+            "date": "2025-08-10T00:00:00+00:00",
+            "delay": 89,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -155,7 +155,7 @@
         {
             "name": "iPadOS 18.4 (22E240)",
             "alternate": false,
-            "date": "2025-07-16T00:00:00+00:00",
+            "date": "2025-07-15T00:00:00+00:00",
             "delay": 90,
             "latest": false,
             "imminent": false,
@@ -177,7 +177,7 @@
         {
             "name": "iPadOS 17.7.6 (21H423)",
             "alternate": false,
-            "date": "2025-08-18T00:00:00+00:00",
+            "date": "2025-08-17T00:00:00+00:00",
             "delay": 90,
             "latest": false,
             "imminent": false,
@@ -187,8 +187,8 @@
         {
             "name": "iPadOS 17.7.7 (21H433)",
             "alternate": false,
-            "date": "2025-08-15T00:00:00+00:00",
-            "delay": 62,
+            "date": "2025-08-14T00:00:00+00:00",
+            "delay": 63,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -245,8 +245,8 @@
         {
             "name": "tvOS 18.4.1 (22L261)",
             "alternate": false,
-            "date": "2025-08-11T00:00:00+00:00",
-            "delay": 88,
+            "date": "2025-08-10T00:00:00+00:00",
+            "delay": 89,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -255,7 +255,7 @@
         {
             "name": "tvOS 18.4 (22L255)",
             "alternate": false,
-            "date": "2025-07-16T00:00:00+00:00",
+            "date": "2025-07-15T00:00:00+00:00",
             "delay": 90,
             "latest": false,
             "imminent": false,
@@ -317,7 +317,7 @@
         {
             "name": "macOS Sequoia 15.4.1 (24E263)",
             "alternate": false,
-            "date": "2025-08-11T00:00:00+00:00",
+            "date": "2025-08-10T00:00:00+00:00",
             "delay": 89,
             "latest": false,
             "imminent": false,
@@ -327,7 +327,7 @@
         {
             "name": "macOS Sonoma 14.7.5 (23H527)",
             "alternate": false,
-            "date": "2025-08-11T00:00:00+00:00",
+            "date": "2025-08-10T00:00:00+00:00",
             "delay": 90,
             "latest": false,
             "imminent": false,
@@ -337,7 +337,7 @@
         {
             "name": "macOS Ventura 13.7.5 (22H527)",
             "alternate": false,
-            "date": "2025-08-11T00:00:00+00:00",
+            "date": "2025-08-10T00:00:00+00:00",
             "delay": 90,
             "latest": false,
             "imminent": false,
@@ -355,5 +355,5 @@
             "mdm_only": false
         }
     ],
-    "_date": "2025-07-14T00:00:18.098046+00:00"
+    "_date": "2025-07-14T01:53:41.183788+00:00"
 }
