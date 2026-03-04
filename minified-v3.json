@@ -1,11 +1,21 @@
 {
     "September 2024 iPhones": [
         {
-            "name": "iOS 26.3 (23D127)",
+            "name": "iOS 26.3.1 (23D8133)",
             "alternate": false,
             "date": null,
             "delay": 0,
             "latest": true,
+            "imminent": false,
+            "mdm_available": true,
+            "mdm_only": false
+        },
+        {
+            "name": "iOS 26.3 (23D127)",
+            "alternate": false,
+            "date": "2026-06-02T00:00:00+00:00",
+            "delay": 21,
+            "latest": false,
             "imminent": false,
             "mdm_available": true,
             "mdm_only": false
@@ -53,11 +63,21 @@
     ],
     "iOS (devices supporting iOS 18)": [
         {
-            "name": "iOS 26.3 (23D127)",
+            "name": "iOS 26.3.1 (23D8133)",
             "alternate": false,
             "date": null,
             "delay": 0,
             "latest": true,
+            "imminent": false,
+            "mdm_available": true,
+            "mdm_only": false
+        },
+        {
+            "name": "iOS 26.3 (23D127)",
+            "alternate": false,
+            "date": "2026-06-02T00:00:00+00:00",
+            "delay": 21,
+            "latest": false,
             "imminent": false,
             "mdm_available": true,
             "mdm_only": false
@@ -181,11 +201,21 @@
     ],
     "M4 iPads": [
         {
-            "name": "iPadOS 26.3 (23D127)",
+            "name": "iPadOS 26.3.1 (23D8133)",
             "alternate": false,
             "date": null,
             "delay": 0,
             "latest": true,
+            "imminent": false,
+            "mdm_available": true,
+            "mdm_only": false
+        },
+        {
+            "name": "iPadOS 26.3 (23D127)",
+            "alternate": false,
+            "date": "2026-06-02T00:00:00+00:00",
+            "delay": 21,
+            "latest": false,
             "imminent": false,
             "mdm_available": true,
             "mdm_only": false
@@ -243,11 +273,21 @@
     ],
     "iPadOS (devices supporting iPadOS 18)": [
         {
-            "name": "iPadOS 26.3 (23D127)",
+            "name": "iPadOS 26.3.1 (23D8133)",
             "alternate": false,
             "date": null,
             "delay": 0,
             "latest": true,
+            "imminent": false,
+            "mdm_available": true,
+            "mdm_only": false
+        },
+        {
+            "name": "iPadOS 26.3 (23D127)",
+            "alternate": false,
+            "date": "2026-06-02T00:00:00+00:00",
+            "delay": 21,
+            "latest": false,
             "imminent": false,
             "mdm_available": true,
             "mdm_only": false
@@ -425,7 +465,7 @@
     ],
     "macOS": [
         {
-            "name": "macOS Tahoe 26.3 (25D125)",
+            "name": "macOS Tahoe 26.3.1 (25D2128)",
             "alternate": false,
             "date": null,
             "delay": 0,
@@ -480,6 +520,16 @@
             "date": null,
             "delay": 0,
             "latest": true,
+            "imminent": false,
+            "mdm_available": true,
+            "mdm_only": false
+        },
+        {
+            "name": "macOS Tahoe 26.3 (25D125)",
+            "alternate": false,
+            "date": "2026-06-02T00:00:00+00:00",
+            "delay": 21,
+            "latest": false,
             "imminent": false,
             "mdm_available": true,
             "mdm_only": false
@@ -555,5 +605,5 @@
             "mdm_only": false
         }
     ],
-    "_date": "2026-03-04T18:26:21.295667+00:00"
+    "_date": "2026-03-04T19:26:58.668875+00:00"
 }
