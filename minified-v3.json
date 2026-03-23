@@ -13,8 +13,8 @@
         {
             "name": "iOS 26.3 (23D127)",
             "alternate": false,
-            "date": "2026-06-03T00:00:00+00:00",
-            "delay": 39,
+            "date": "2026-06-02T00:00:00+00:00",
+            "delay": 40,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -23,8 +23,8 @@
         {
             "name": "iOS 26.2.1 (23C71)",
             "alternate": false,
-            "date": "2026-05-13T00:00:00+00:00",
-            "delay": 55,
+            "date": "2026-05-12T00:00:00+00:00",
+            "delay": 56,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -33,7 +33,7 @@
         {
             "name": "iOS 26.2 (23C55)",
             "alternate": false,
-            "date": "2026-04-27T00:00:00+00:00",
+            "date": "2026-04-26T00:00:00+00:00",
             "delay": 90,
             "latest": false,
             "imminent": false,
@@ -55,8 +55,8 @@
         {
             "name": "iOS 26.3 (23D127)",
             "alternate": false,
-            "date": "2026-06-03T00:00:00+00:00",
-            "delay": 39,
+            "date": "2026-06-02T00:00:00+00:00",
+            "delay": 40,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -65,8 +65,8 @@
         {
             "name": "iOS 26.2.1 (23C71)",
             "alternate": false,
-            "date": "2026-05-13T00:00:00+00:00",
-            "delay": 55,
+            "date": "2026-05-12T00:00:00+00:00",
+            "delay": 56,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -75,7 +75,7 @@
         {
             "name": "iOS 26.2 (23C55)",
             "alternate": false,
-            "date": "2026-04-27T00:00:00+00:00",
+            "date": "2026-04-26T00:00:00+00:00",
             "delay": 90,
             "latest": false,
             "imminent": false,
@@ -97,8 +97,8 @@
         {
             "name": "iOS 16.7.14 (20H370)",
             "alternate": false,
-            "date": "2026-06-10T00:00:00+00:00",
-            "delay": 48,
+            "date": "2026-06-09T00:00:00+00:00",
+            "delay": 49,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -107,8 +107,8 @@
         {
             "name": "iOS 16.7.13 (20H365)",
             "alternate": false,
-            "date": "2026-05-04T00:00:00+00:00",
-            "delay": 55,
+            "date": "2026-05-03T00:00:00+00:00",
+            "delay": 56,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -117,7 +117,7 @@
         {
             "name": "iOS 16.7.12 (20H364)",
             "alternate": false,
-            "date": "2026-04-27T00:00:00+00:00",
+            "date": "2026-04-26T00:00:00+00:00",
             "delay": 90,
             "latest": false,
             "imminent": false,
@@ -139,8 +139,8 @@
         {
             "name": "iOS 15.8.6 (19H402)",
             "alternate": false,
-            "date": "2026-06-10T00:00:00+00:00",
-            "delay": 55,
+            "date": "2026-06-09T00:00:00+00:00",
+            "delay": 56,
             "latest": false,
             "imminent": false,
             "mdm_available": true,
@@ -149,7 +149,7 @@
         {
             "name": "iOS 15.8.5 (19H394)",
             "alternate": false,
-            "date": "2026-04-27T00:00:00+00:00",
+            "date": "2026-04-26T00:00:00+00:00",
             "delay": 90,
             "latest": false,
             "imminent": false,
@@ -525,5 +525,5 @@
             "mdm_only": false
         }
     ],
-    "_date": "2026-03-23T00:00:37.146786+00:00"
+    "_date": "2026-03-23T02:24:29.583243+00:00"
 }
