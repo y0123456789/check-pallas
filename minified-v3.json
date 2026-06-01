@@ -535,7 +535,7 @@
     ],
     "macOS": [
         {
-            "name": "macOS Tahoe 26.5 (25F71)",
+            "name": "macOS Tahoe 26.5.1 (25F80)",
             "alternate": false,
             "date": null,
             "delay": 0,
@@ -590,6 +590,16 @@
             "date": null,
             "delay": 0,
             "latest": true,
+            "imminent": false,
+            "mdm_available": true,
+            "mdm_only": false
+        },
+        {
+            "name": "macOS Tahoe 26.5 (25F71)",
+            "alternate": false,
+            "date": "2026-08-30T00:00:00+00:00",
+            "delay": 21,
+            "latest": false,
             "imminent": false,
             "mdm_available": true,
             "mdm_only": false
@@ -675,5 +685,5 @@
             "mdm_only": false
         }
     ],
-    "_date": "2026-06-01T16:46:27.306121+00:00"
+    "_date": "2026-06-01T20:58:59.177344+00:00"
 }
